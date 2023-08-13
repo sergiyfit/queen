@@ -100,7 +100,7 @@ export default function App() {
                   switchPage={switchPage}
                 />
               </View>
-              <Text color='white'> Active page: {activePage}</Text>
+              {/* <Text color='white'> Active page: {activePage}</Text> */}
             </View>
           </TouchableWithoutFeedback>
         );

@@ -19,7 +19,7 @@ export default function StudyLesson({ activelesson }) {
                     style={ {  marginTop: (Platform.OS == 'ios') ? 20 : 0,} }
                     javaScriptEnabled={true}
                     domStorageEnabled={true}
-                    source={{uri: 'https://www.youtube.com/embed/Vj33XMZgZ14' }}
+                    source={{uri: 'https://www.youtube.com/embed/BWFVYniX7H8' }}
                 />
             </View>
 
